@@ -24,7 +24,6 @@ This project is a clone of the Spotify web player, created to practice and showc
 
 ## 📸 Screenshots
 ![Screenshot 1](./assets/screenshot1.png)
-![Screenshot 2](./assets/screenshot2.png)
 
 ## 🛠 Technologies Used
 - **HTML**
